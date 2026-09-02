@@ -1,4 +1,4 @@
-# ALMACÉN EL AHORRO
+# Almacénes La Bendición De Dios 
 
 Tienda online hecha con HTML, CSS, Bootstrap 5 y JavaScript.
 
